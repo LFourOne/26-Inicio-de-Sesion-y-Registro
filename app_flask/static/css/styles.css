@@ -1,0 +1,70 @@
+.title-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.table-title{
+    margin-top: 100px;
+}
+.btn-container{
+    display: flex;
+    gap: 50px;
+}
+.btn-dashrow{
+    display: flex;
+    gap: 10px;
+    width: 10px;
+}
+.bands-btn{
+    margin-top: 5px;
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+    color: blue;
+    font-size: 17px;
+}
+.actions-btn{
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+    color: blue;
+    font-size: 17px;
+}
+
+.form-container{
+    margin-left: 100px;
+}
+.form-control{
+    width: 300px;
+}
+.createband{
+    margin-top: 100px;
+}
+.mid-myband-container{
+    display: flex;
+    justify-content: center;
+    gap: 300px
+}
+.table-title-myband{
+    margin-top: 100px;
+}
+.mid-container{
+    margin-top: 100px;
+}
+
+.subcontainer-row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.btn-row{
+    display: flex;
+}
+.table-myband{
+    width: 200px;
+}
+.td-action{
+    display: flex;
+    color: black;
+}
